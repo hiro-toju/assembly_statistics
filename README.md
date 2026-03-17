@@ -1,4 +1,4 @@
-Codes for making figures in the reveiw paper entitled "Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and
+R codes for making figures in the reveiw paper entitled "Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and
 management".
 
 ------------------
